@@ -1,0 +1,5 @@
+export const ADD_BUOY ="ADD_BUOY"
+export const GET_INITIAL_BUOY = "GET_INITIAL_BUOY";
+export const GET_BUOY_SUCCESS = "GET_BUOY_SUCCESS";
+export const GET_ALL_BUOYS = "GET_ALL_BUOYS";
+export const GET_ALL_BUOY_SUCCESS = "GET_ALL_BUOY_SUCCESS";
